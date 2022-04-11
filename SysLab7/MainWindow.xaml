@@ -1,0 +1,58 @@
+﻿<Window x:Class="SysLab7.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:SysLab7"
+        Title="SysLab5" Height="450" Width="400"
+        MinHeight="450" MinWidth="400"
+        WindowStartupLocation="CenterScreen" Closing="Window_Closing">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="15" />
+            <ColumnDefinition Width="*" />
+            <ColumnDefinition Width="15" />
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="15"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="5"/>
+        </Grid.RowDefinitions>
+        <DockPanel Grid.Column="1" Grid.Row="1">
+            <DockPanel DockPanel.Dock="Top">
+                <Label Content="Начальное значение" Width="190"
+                       DockPanel.Dock="Left"/>
+                <TextBox x:Name="StartNumTextBox" TabIndex="0"
+                         Text="1000000000"/>
+            </DockPanel>
+            <DockPanel DockPanel.Dock="Top">
+                <Label Content="Конечное значение" Width="190"
+                       DockPanel.Dock="Left"/>
+                <TextBox x:Name="FinishNumTextBox" TabIndex="1" 
+                         Text="1000010000"/>
+            </DockPanel>
+            <DockPanel DockPanel.Dock="Top">
+                <Label Content="Количество потоков" Width="190"
+                       DockPanel.Dock="Left"/>
+                <TextBox x:Name="ThreadCountTextBox" TabIndex="1"
+                         Text="10"/>
+            </DockPanel>
+            <DockPanel DockPanel.Dock="Top">
+                <Button x:Name="StartButton" DockPanel.Dock="Top" Margin="0,5,0,0"
+                        Content="Запустить процесс поиска простых чисел" 
+                        Click="StartButton_Click" TabIndex="2"/>
+            </DockPanel>
+            <DockPanel DockPanel.Dock="Top">
+                <Label Content="Работающих потоков" Width="190"
+                       DockPanel.Dock="Left"/>
+                <TextBox x:Name="WorkingThreadCountTextBox" TabIndex="1" 
+                         IsReadOnly="True" Text="0"/>
+            </DockPanel>
+
+            <DockPanel >
+                <Label Content="Результаты:" DockPanel.Dock="Top"/>
+                <ListBox x:Name="ResultsListBox" TabIndex="4"/>
+            </DockPanel>
+        </DockPanel>
+    </Grid>
+</Window>

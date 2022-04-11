@@ -1,0 +1,48 @@
+D:\C#\SysLab7\SysLab7\SysLab7\obj\Debug\SysLab7.csprojAssemblyReference.cache
+D:\C#\SysLab7\SysLab7\SysLab7\obj\Debug\MainWindow.g.cs
+D:\C#\SysLab7\SysLab7\SysLab7\obj\Debug\App.g.cs
+D:\C#\SysLab7\SysLab7\SysLab7\obj\Debug\SysLab7_MarkupCompile.cache
+D:\C#\SysLab7\SysLab7\SysLab7\obj\Debug\SysLab7_MarkupCompile.lref
+D:\C#\SysLab7\SysLab7\SysLab7\bin\Debug\SysLab7.exe.config
+D:\C#\SysLab7\SysLab7\SysLab7\bin\Debug\SysLab7.exe
+D:\C#\SysLab7\SysLab7\SysLab7\bin\Debug\SysLab7.pdb
+D:\C#\SysLab7\SysLab7\SysLab7\obj\Debug\App.baml
+D:\C#\SysLab7\SysLab7\SysLab7\obj\Debug\MainWindow.baml
+D:\C#\SysLab7\SysLab7\SysLab7\obj\Debug\SysLab7.g.resources
+D:\C#\SysLab7\SysLab7\SysLab7\obj\Debug\SysLab7.Properties.Resources.resources
+D:\C#\SysLab7\SysLab7\SysLab7\obj\Debug\SysLab7.csproj.GenerateResource.cache
+D:\C#\SysLab7\SysLab7\SysLab7\obj\Debug\SysLab7.csproj.CoreCompileInputs.cache
+D:\C#\SysLab7\SysLab7\SysLab7\obj\Debug\SysLab7.exe
+D:\C#\SysLab7\SysLab7\SysLab7\obj\Debug\SysLab7.pdb
+D:\3is2\Smirnov\3is2\Смирнов М\ООП\SysLab7\SysLab7\bin\Debug\SysLab7.exe.config
+D:\3is2\Smirnov\3is2\Смирнов М\ООП\SysLab7\SysLab7\bin\Debug\SysLab7.exe
+D:\3is2\Smirnov\3is2\Смирнов М\ООП\SysLab7\SysLab7\bin\Debug\SysLab7.pdb
+D:\3is2\Smirnov\3is2\Смирнов М\ООП\SysLab7\SysLab7\obj\Debug\SysLab7.csprojAssemblyReference.cache
+D:\3is2\Smirnov\3is2\Смирнов М\ООП\SysLab7\SysLab7\obj\Debug\MainWindow.g.cs
+D:\3is2\Smirnov\3is2\Смирнов М\ООП\SysLab7\SysLab7\obj\Debug\App.g.cs
+D:\3is2\Smirnov\3is2\Смирнов М\ООП\SysLab7\SysLab7\obj\Debug\SysLab7_MarkupCompile.cache
+D:\3is2\Smirnov\3is2\Смирнов М\ООП\SysLab7\SysLab7\obj\Debug\SysLab7_MarkupCompile.lref
+D:\3is2\Smirnov\3is2\Смирнов М\ООП\SysLab7\SysLab7\obj\Debug\App.baml
+D:\3is2\Smirnov\3is2\Смирнов М\ООП\SysLab7\SysLab7\obj\Debug\MainWindow.baml
+D:\3is2\Smirnov\3is2\Смирнов М\ООП\SysLab7\SysLab7\obj\Debug\SysLab7.g.resources
+D:\3is2\Smirnov\3is2\Смирнов М\ООП\SysLab7\SysLab7\obj\Debug\SysLab7.Properties.Resources.resources
+D:\3is2\Smirnov\3is2\Смирнов М\ООП\SysLab7\SysLab7\obj\Debug\SysLab7.csproj.GenerateResource.cache
+D:\3is2\Smirnov\3is2\Смирнов М\ООП\SysLab7\SysLab7\obj\Debug\SysLab7.csproj.CoreCompileInputs.cache
+D:\3is2\Smirnov\3is2\Смирнов М\ООП\SysLab7\SysLab7\obj\Debug\SysLab7.exe
+D:\3is2\Smirnov\3is2\Смирнов М\ООП\SysLab7\SysLab7\obj\Debug\SysLab7.pdb
+C:\Учеба\Прога\Visual\SysLab7\SysLab7\SysLab7\bin\Debug\SysLab7.exe.config
+C:\Учеба\Прога\Visual\SysLab7\SysLab7\SysLab7\bin\Debug\SysLab7.exe
+C:\Учеба\Прога\Visual\SysLab7\SysLab7\SysLab7\bin\Debug\SysLab7.pdb
+C:\Учеба\Прога\Visual\SysLab7\SysLab7\SysLab7\obj\Debug\SysLab7.csproj.AssemblyReference.cache
+C:\Учеба\Прога\Visual\SysLab7\SysLab7\SysLab7\obj\Debug\MainWindow.g.cs
+C:\Учеба\Прога\Visual\SysLab7\SysLab7\SysLab7\obj\Debug\App.g.cs
+C:\Учеба\Прога\Visual\SysLab7\SysLab7\SysLab7\obj\Debug\SysLab7_MarkupCompile.cache
+C:\Учеба\Прога\Visual\SysLab7\SysLab7\SysLab7\obj\Debug\SysLab7_MarkupCompile.lref
+C:\Учеба\Прога\Visual\SysLab7\SysLab7\SysLab7\obj\Debug\App.baml
+C:\Учеба\Прога\Visual\SysLab7\SysLab7\SysLab7\obj\Debug\MainWindow.baml
+C:\Учеба\Прога\Visual\SysLab7\SysLab7\SysLab7\obj\Debug\SysLab7.g.resources
+C:\Учеба\Прога\Visual\SysLab7\SysLab7\SysLab7\obj\Debug\SysLab7.Properties.Resources.resources
+C:\Учеба\Прога\Visual\SysLab7\SysLab7\SysLab7\obj\Debug\SysLab7.csproj.GenerateResource.cache
+C:\Учеба\Прога\Visual\SysLab7\SysLab7\SysLab7\obj\Debug\SysLab7.csproj.CoreCompileInputs.cache
+C:\Учеба\Прога\Visual\SysLab7\SysLab7\SysLab7\obj\Debug\SysLab7.exe
+C:\Учеба\Прога\Visual\SysLab7\SysLab7\SysLab7\obj\Debug\SysLab7.pdb
